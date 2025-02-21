@@ -15,7 +15,7 @@ export function NavBar(): React.JSX.Element {
                 {
                     // add href to "account" when you end backend stuff or smth
                 }
-                <Link href={"/signin"} className="btn btn-ghost">
+                <Link href={"/register"} className="btn btn-ghost">
                     account
                 </Link>
             </div>
